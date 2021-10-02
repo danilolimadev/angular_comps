@@ -1,4 +1,4 @@
-# Angular Cards
+# Angular Comps
 Projeto de estudo com base no curso The Modern Angular Bootcamp
 
 ## 🚀 Começando
@@ -8,14 +8,14 @@ Clone ou baixe o projeto.
 ### 📋 Pré-requisitos
 
 * Pasta node_modules;
-* Framework css bulma.
+* Framework semantic ui.
 
 ### 🔧 Instalação
 
 * A pasta node_modules pode ser copiada de algum outro projeto angular já criado anteriormente.
-* Para instalar o bulma execute na pasta do projeto:
+* Para instalar o semantic execute na pasta do projeto:
 ```
-npm install bulma
+npm install semantic
 ```
 
 ## ⚙️ Executando os testes
@@ -28,8 +28,8 @@ Para verificar o funcionamento acesse a url: https://localhost:4200
 
 ## 🛠️ Construído com
 
-* [Angular](https://angular.io/) - O framework web usado
-* [Bulma](https://bulma.io/) - O framework css usado
+* [Angular](https://angular.io/) - Framework web usado
+* [Semantic-UI](https://semantic-ui.com/) - O framework usado
 
 
 ## 🎁 Expressões de gratidão
